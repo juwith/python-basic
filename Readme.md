@@ -2,5 +2,5 @@
 
 ## Table of Contents
 1. **Getting Started**
-    - [Hello Python] (helloworld/helloworld.py)
+    - [Hello Python](helloworld/helloworld.py)
 
